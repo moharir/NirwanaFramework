@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Android Test Suite">
+	<test name="Login to EriBank">
+		<classes>
+			<class name="cigniti.runner.AndroidRunner" />
+		</classes>
+	</test>
+</suite>

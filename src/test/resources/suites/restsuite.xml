@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="RESTFul Test Suite">
+	<test name="Get All The Users Register a User and Weather">
+		<classes>
+			<class name="cigniti.runner.RestRunner" />
+		</classes>
+	</test>
+</suite>

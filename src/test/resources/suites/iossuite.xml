@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="iOS Test Suite">
+	<test name="iOS Demo App">
+		<classes>
+			<class name="cigniti.runner.iOSRunner" />
+		</classes>
+	</test>
+</suite>

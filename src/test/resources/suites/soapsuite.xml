@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="SOAP Test Suite">
+	<test name="AON Test" preserve-order="true">
+		<classes>
+			<class name="cigniti.runner.SoapRunner" />
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Web Test Suite">
+	<test name="Login to CRM" preserve-order="true">
+		<classes>
+			<class name="cigniti.runner.WebRunner" />
+		</classes>
+	</test>
+</suite>
